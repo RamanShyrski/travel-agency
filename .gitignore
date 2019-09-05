@@ -1,0 +1,10 @@
+target/
+.idea/
+logs/
+out/
+*.iml
+.mvn/
+*.cmd
+*.txt
+*.cfg
+
